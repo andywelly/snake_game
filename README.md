@@ -1,2 +1,3 @@
-# ms_game
-Java code for games
+# snake_game
+Java code for a simple snake game
+
